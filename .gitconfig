@@ -1,0 +1,5 @@
+[user]
+	email = porojan.co.madalin@student.utcluj.ro
+	name = madalinporojan
+[credential "https://gitlab.com"]
+	provider = generic
