@@ -9,3 +9,10 @@
 # Built with
 - Unity
 - C#
+
+
+# Author
+**Madalin Marian Porojan**
+
+- [Profile](https://github.com/madalinporojan2010 "Madalin Marian Porojan")
+- [Email](mailto:madalin.porojan@yahoo.com?subject=Hi% "Hi!")
